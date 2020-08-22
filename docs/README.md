@@ -5,6 +5,8 @@ This is the deprecated flask version of CourseCake.
 For the supported, main version of [CourseCake](https://github.com/nananananate/CourseCake), this is the repository:
 https://github.com/nananananate/CourseCake
 
+
+## About
 From developing a course planner to simply finding in-person classes, there's an easier, responsible, and more powerful way to get your university's course information.
 
 We aim to create an API to access course data, where each college's course is unified under one schema. By making course data easier to responsibly access and more "edible" for programs, we hope CourseCake gives a smooth approach to build useful tools for students.
