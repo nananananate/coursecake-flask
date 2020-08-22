@@ -1,5 +1,9 @@
-# [CourseCake](http://docs.coursecake.tisuela.com/)
-![Python application](https://github.com/nananananate/CourseCake/workflows/Python%20application/badge.svg) [![Coverage Status](https://coveralls.io/repos/github/nananananate/CourseCake/badge.svg?branch=master&service=github)](https://coveralls.io/github/nananananate/CourseCake?branch=master)
+# [CourseCake](http://docs.coursecake.tisuela.com/) - Flask
+
+This is the deprecated flask version of CourseCake.
+
+For the supported, main version of [CourseCake](https://github.com/nananananate/CourseCake), this is the repository:
+https://github.com/nananananate/CourseCake
 
 From developing a course planner to simply finding in-person classes, there's an easier, responsible, and more powerful way to get your university's course information.
 
